@@ -45,10 +45,10 @@
 <h1 align="center">🔝 Top Projects</h1>
 <p align="center">
 	<a href="https://github.com/BitBlunder/forge-memory">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=BitBlunder&repo=forge-memory" alt="Forge Containers - forge-memory">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=BitBlunder&repo=forge-memory" alt="forge-memory">
 	</a>
 	<a href="https://github.com/BitBlunder/forge-containers">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=BitBlunder&repo=forge-containers" alt="Forge Containers - forge-containers">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=BitBlunder&repo=forge-containers" alt="forge-containers">
 	</a>
 </p>
 
